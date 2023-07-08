@@ -2,7 +2,8 @@
 <h1 align="center">Hi 👋, I'm VISHAL KADIYAN</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
-<img align="right" alt="coding" width="100" src="https://user- images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c498leaf70.gif>
+<img align="right" alt="coding" width="100" src="![image](https://github.com/VISHALKADIYAN/VISHALKADIYAN/assets/138964144/1a544a09-ffbe-4baf-82a8-6d48144ebb74)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishalkadiyan&label=Profile%20views&color=0e75b6&style=flat" alt="vishalkadiyan" /> </p>
 
