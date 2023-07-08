@@ -1,4 +1,4 @@
-<img align="center" width="800" src="https://www.canva.com/design/DAFoCK-Q4Lw/o5tS8QK6b9xlMRQh0nDAww/edit?utm_content=DAFoCK-Q4Lw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">
+<img align="center" alt="Banner" width="800" src="https://www.canva.com/design/DAFoCK-Q4Lw/o5tS8QK6b9xlMRQh0nDAww/edit?utm_content=DAFoCK-Q4Lw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">
 <h1 align="center">Hi 👋, I'm VISHAL KADIYAN</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
