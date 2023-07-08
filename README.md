@@ -1,9 +1,7 @@
-![logo](https://github.com/VISHALKADIYAN/VISHALKADIYAN/blob/main/Github%20Banner.png)
 <h1 align="center">Hi 👋, I'm VISHAL KADIYAN</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
-<img align="right" alt="coding" width="100" src="![image](https://github.com/VISHALKADIYAN/VISHALKADIYAN/assets/138964144/1a544a09-ffbe-4baf-82a8-6d48144ebb74)
-
+<img align="right" alt="coding" width="100" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fcamo.githubusercontent.com%2Fcae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17%2F68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966&tbnid=zhjSEq0Xd_DH7M&vet=12ahUKEwj7qPjK4_7_AhWh5TgGHSkKDxEQMygAegUIARCQAg..i&imgrefurl=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&docid=CJdgcKdcN0j58M&w=680&h=428&q=animated%20coding%20gif&ved=2ahUKEwj7qPjK4_7_AhWh5TgGHSkKDxEQMygAegUIARCQAg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishalkadiyan&label=Profile%20views&color=0e75b6&style=flat" alt="vishalkadiyan" /> </p>
 
