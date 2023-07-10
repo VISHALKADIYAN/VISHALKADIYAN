@@ -1,4 +1,4 @@
-<img align="center" alt="coding" width="500" src="https://photos.google.com/photo/AF1QipPT6mjmuPZ1OSNFTe7oQYuoO5Gy11yVxA2L6u0_">
+<img align="center" width="500" src="https://photos.google.com/photo/AF1QipPT6mjmuPZ1OSNFTe7oQYuoO5Gy11yVxA2L6u0_">
 <h1 align="center">Hi 👋, I'm VISHAL KADIYAN</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
